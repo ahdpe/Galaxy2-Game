@@ -1,6 +1,7 @@
 # game_logic.py
 import random
 import math
+import pygame
 from settings import * # Импортируем все настройки
 from game_objects import Enemy # Нужен класс Enemy
 
